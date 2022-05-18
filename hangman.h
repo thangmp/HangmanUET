@@ -25,6 +25,8 @@ void processData(const char ch, const string& word,
 
 int generateRandomNumber(const int min, const int max);
 bool isCharInWord(const char ch, const string& word);
+bool askRetry(char answer); 
+bool checkDupIncorrectGuesses(const char ch, string& IncorrectChars);
 vector<string> readWordListFromFile(const string& filePath);
 
 #endif
