@@ -15,7 +15,14 @@ void playAnimation(const string& word, const string& secretWord,
 void printStats(const string& word, const string& secretWord,
                  const string& correctChars,
                  const int incorrectGuess, const string& incorrectChars);
-
+void printPlayingScreen(const string& word, const string& secretWord,
+                 const string& correctChars,
+                 const int incorrectGuess, const string& incorrectChars);                
+void printMenuScreen();
+void printRetryScreen();
+void printModeScreen();
+void printDiffScreen();
+void clearScreen();
 std::string getDrawing(const int i);
 std::string getNextHangman();
 std::string getNextStandingman();

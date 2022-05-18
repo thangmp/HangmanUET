@@ -1,0 +1,81 @@
+Turtle
+Rabbit
+Parrot
+Kitten
+Goldfish
+Tropical fish
+Hamster
+Rabbit
+Shrimp
+Turkey
+Chicken
+Peacock
+Sparrow
+Pigeon
+Turkey
+Bald eagle
+Parrot
+Flamingo
+Seagull
+Ostrich
+Swallow
+Black bird
+Penguin
+Woodpecker
+Squirrel
+Chimpanzee
+Walrus
+Kangaroo
+Monkey
+Elephant
+Leopard
+Hippopotamus
+Giraffe
+Coyote
+Hedgehong
+Giraffe
+Woodpecker
+Starfish
+Alligator
+Blue whale
+Coyote
+Chimpanzee
+Raccoon
+Arctic wolf
+Crocodile
+Dolphin
+Elephant
+Squirrel
+Kangaroo
+Hippopotamus
+Gorilla
+Badger
+Lizard
+Hedgehog
+Reindeer
+Octopus
+Seahorse
+Walrus
+Starfish
+Penguin
+Jellyfish
+Lobster
+Pelican
+Seagull
+Dolphin
+Shells
+Sea urchin
+Cormorant
+Pelican
+Sea anemone
+Sea turtle
+Sea lion
+Butterfly
+Spider
+Ladybird
+Dragonfly
+Mosquito
+Grasshopper
+Beetle
+Cockroach
+Centipede

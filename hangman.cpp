@@ -114,3 +114,9 @@ string generateHiddenCharacters(string secretWord){
     }
     return secretWord;
 }
+
+bool askRetry(char answer)
+{
+    if(answer=='y' || answer == 'Y') return true;
+    else return false;
+}
